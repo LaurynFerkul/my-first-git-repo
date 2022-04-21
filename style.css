@@ -14,3 +14,9 @@ h1{
     color: blue;
     margin: 0 auto;
 }
+
+h2 {
+    font-size: 2rem;
+    color: tomato;
+    padding: 40px;
+}
