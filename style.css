@@ -8,3 +8,9 @@ body{
     background-color: #bada55;
     color: black;
 }
+
+h1{
+    font-size: 4rem;
+    color: blue;
+    margin: 0 auto;
+}
