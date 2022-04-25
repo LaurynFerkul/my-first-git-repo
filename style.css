@@ -9,6 +9,15 @@ body{
     color: black;
 }
 
+nav{
+    background-color: blue;
+}
+
+nav ul{
+    display: flex;
+    justify-content: space-evenly;
+}
+
 h1{
     font-size: 4rem;
     color: blue;
